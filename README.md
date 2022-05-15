@@ -12,4 +12,4 @@
 9. Navigate to localhost:8000/homepage to get started
 
 ### Project Submission: 
-https://devpost.com/software/lessontutor
+https://devpost.com/software/lessontutor-ewk92n
